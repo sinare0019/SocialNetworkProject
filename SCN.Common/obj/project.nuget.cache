@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "jvUfztxRFB3i5rfKKUqScP2+wW5Qog+UMDN95XXxDazC+AmsMyaYfUx7bhgQub8xolvNKVVrYNcdZauIpl5lWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sina\\Desktop\\Projects\\SocialNetworkWeb\\SocialNetworkWeb\\SCN.Common\\SCN.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sina\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\sina\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\sina\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\sina\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\sina\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
